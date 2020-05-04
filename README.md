@@ -1,5 +1,5 @@
 # crawling-quotes
-A simple practice python web crawling using scrapy 
+A simple practice python web crawling using scrapy and selenium
 
 # Scrapy
 Scrapy is a free and open-source web-crawling framework written in Python
@@ -31,7 +31,12 @@ virtualenv
 
 2. Install Scrapy
 ```bash
-pip install Scrapy
+pip install scrapy
+```
+
+3. Install Selenium
+```bash
+pip install selenium
 ```
 
 ### Create new project 
